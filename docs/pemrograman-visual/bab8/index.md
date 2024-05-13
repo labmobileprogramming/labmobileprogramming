@@ -58,7 +58,7 @@ kepada system untuk menghapusnya dari database.
 
 ## Cara Kerja CRUD
 
-ntuk pengaplikasian dari fungsi ini perlu diperhatikan dalam penyusunan fungsi
+untuk pengaplikasian dari fungsi ini perlu diperhatikan dalam penyusunan fungsi
 tersebut bahwa user telah terkoneksi dengan database.
 Berikut Cara Kerja pada CRUD :
 1. Rute apa yang perlu user terapkan untuk menyediakan model dengan fungsionalitas CRUD inni dan apa kata kerja HTTP yang sesuai.
